@@ -1,1 +1,4 @@
-The aim is to create an eigenvalue problem solver for sparse matrices in Julia. Currently, a basic Arnoldi algorithm has been implemented.
+# Eigenvalue problem solver for sparse matrices in Julia
+
+## Aim
+To create a native Julia implementation for 'eigs'. As a starting point, a basic Arnoldi algorithm has been implemented.
